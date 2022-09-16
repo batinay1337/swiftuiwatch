@@ -18,7 +18,7 @@ You'll need Xcode 13.1 (or later) which you can download from the [App Store](ht
 
 
 
-## Testing just in the app
+## How Do You Test It In Your App
 
 
 
