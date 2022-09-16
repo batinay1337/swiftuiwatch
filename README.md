@@ -1,8 +1,15 @@
-Analog Watch for Apple Application Platform
+<div align="center">
 
-=================
+
+  <h1>Analog Watch for Apple Application Platform</h1>
+
+</div>
+
+<div align="center">
 
 ![](https://github.com/batinay1337/swiftuiwatch/blob/main/sources/Screen2.gif?raw=true)
+
+</div>
 
 
 ## Getting Started
