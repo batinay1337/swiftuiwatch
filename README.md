@@ -1,34 +1,31 @@
-<div align="center">
-
-
-  <h1>Analog Watch for Apple Application Platform</h1>
-
-</div>
-
-<div align="center">
-
-![](https://github.com/batinay1337/swiftuiwatch/blob/main/sources/Screen2.gif?raw=true)
-
-</div>
-
-
-## Getting Started
-
-You'll need Xcode 13.1 (or later) which you can download from the [App Store](https://developer.apple.com/download/).
 
 
 
-## How Do You Test It In Your App
+# SwiftUI Watch(Analog)
+SwiftUI Watch is a simple watchOS app that demonstrates some of the core features of SwiftUI on Apple Watch. This project was created by Batınay Ünsel as a learning exercise for SwiftUI development.
+
+<img src="https://github.com/batinay1337/swiftuiwatch/blob/main/sources/Screen2.gif?raw=true" alt="Analog Clock" width="300">
 
 
+## Features
+- Displays the current time in a customizable clock face.
+- Lets users change the color of the clock face.
+- Supports both 24-hour and 12-hour time formats.
 
-1. Install Xcode from the [App Store](https://developer.apple.com/download/) making sure it's at least the version noted above. You do not need to install or run anything else.
-2. Launch the simulator at `/Applications/Xcode.app/Contents/Developer/Applications/Simulator.app` or in Xcode under the Xcode menu > Open Developer Tool.
-3. Open a simulator under File > Open Simulator. You can install older versions of iOS in Xcode's Components preferences.
-5. Drag the result `.app` on drop it on top of the simulator.
-6. Locate the app on the home screen and click it to launch.
-7. Ship of your coffee :D
+## Requirements
+- Xcode 12 or later
+- A device running watchOS 7 or later (for testing on a physical device)
 
-## What does it look like?
+## Installation
+1. Clone or download the project to your local machine.
+2. Open the project in Xcode.
+3. Build and run the app on a simulator or a physical device.
 
-![](https://github.com/batinay1337/swiftuiwatch/blob/main/sources/Screen1.jpg?raw=true)
+## Screenshots
+<img src="https://github.com/batinay1337/swiftuiwatch/blob/main/sources/Screen1.jpg?raw=true" alt="Analog Clock" width="300">
+
+## License
+This project is licensed under the MIT License.
+
+## Acknowledgements
+This project was inspired by the [SwiftUI Essentials](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views) tutorial from Apple.
